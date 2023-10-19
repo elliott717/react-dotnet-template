@@ -15,3 +15,7 @@ body {
 .table td{
   vertical-align: middle;
 }
+
+.custom-table {
+  width: 100%
+}
